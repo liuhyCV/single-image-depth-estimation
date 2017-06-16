@@ -1,0 +1,9 @@
+#ignore large files and folder
+
+data/dataset/NYU_dataset
+
+result/check_point
+result/network_predict
+result/summary
+
+sample_generator/
